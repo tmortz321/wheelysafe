@@ -129,8 +129,7 @@ h6 {
 }
 
 .banner-social-buttons {
-    float: right;
-    margin-top: 0;
+    margin-top: 25px;
 }
 
 @media(max-width:1199px) {
